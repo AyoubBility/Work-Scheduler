@@ -25,14 +25,14 @@ $(document).ready(function () {
         }
     })
     
-    //moring
+    //moring.
     $(hour8).val(localStorage.getItem("hour8"));
     $(hour9).val(localStorage.getItem("hour9"));
     $(hour10).val(localStorage.getItem("hour10"));
     $(hour11).val(localStorage.getItem("hour11"));
     $(hour12).val(localStorage.getItem("hour12"));
 
-    //afternoon
+    //afternoon.
     $(hour1).val(localStorage.getItem("hour1"));
     $(hour2).val(localStorage.getItem("hour2"));
     $(hour3).val(localStorage.getItem("hour3"));
